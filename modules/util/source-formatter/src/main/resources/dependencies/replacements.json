@@ -5054,6 +5054,14 @@
 		]
 	},
 	{
+		"from": "regex:class=\"hide-accessible\"",
+		"issueKey": "LPD-57097",
+		"to": "class=\"hide-accessible sr-only\"",
+		"validExtensions": [
+			"ftl"
+		]
+	},
+	{
 		"classNames": [
 			"DDMTemplateLocalService",
 			"DDMTemplateLocalServiceUtil"
